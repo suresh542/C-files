@@ -1,0 +1,6 @@
+E:\c#\for loop\for loop\bin\Debug\for loop.exe.config
+E:\c#\for loop\for loop\bin\Debug\for loop.exe
+E:\c#\for loop\for loop\bin\Debug\for loop.pdb
+E:\c#\for loop\for loop\obj\Debug\for loop.csprojResolveAssemblyReference.cache
+E:\c#\for loop\for loop\obj\Debug\for loop.exe
+E:\c#\for loop\for loop\obj\Debug\for loop.pdb

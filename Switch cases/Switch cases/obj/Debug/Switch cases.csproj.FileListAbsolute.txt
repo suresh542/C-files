@@ -1,0 +1,6 @@
+E:\c#\Switch cases\Switch cases\bin\Debug\Switch cases.exe.config
+E:\c#\Switch cases\Switch cases\obj\Debug\Switch cases.csprojResolveAssemblyReference.cache
+E:\c#\Switch cases\Switch cases\bin\Debug\Switch cases.exe
+E:\c#\Switch cases\Switch cases\bin\Debug\Switch cases.pdb
+E:\c#\Switch cases\Switch cases\obj\Debug\Switch cases.exe
+E:\c#\Switch cases\Switch cases\obj\Debug\Switch cases.pdb

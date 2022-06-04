@@ -1,0 +1,6 @@
+E:\c#\b and c\b and c\bin\Debug\b and c.exe.config
+E:\c#\b and c\b and c\bin\Debug\b and c.exe
+E:\c#\b and c\b and c\bin\Debug\b and c.pdb
+E:\c#\b and c\b and c\obj\Debug\b and c.csprojResolveAssemblyReference.cache
+E:\c#\b and c\b and c\obj\Debug\b and c.exe
+E:\c#\b and c\b and c\obj\Debug\b and c.pdb

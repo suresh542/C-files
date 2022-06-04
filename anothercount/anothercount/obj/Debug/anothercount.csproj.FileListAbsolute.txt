@@ -1,0 +1,6 @@
+E:\c#\anothercount\anothercount\bin\Debug\anothercount.exe.config
+E:\c#\anothercount\anothercount\obj\Debug\anothercount.csprojResolveAssemblyReference.cache
+E:\c#\anothercount\anothercount\bin\Debug\anothercount.exe
+E:\c#\anothercount\anothercount\bin\Debug\anothercount.pdb
+E:\c#\anothercount\anothercount\obj\Debug\anothercount.exe
+E:\c#\anothercount\anothercount\obj\Debug\anothercount.pdb

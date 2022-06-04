@@ -1,0 +1,14 @@
+E:\c#\newone\newone\bin\Debug\newone.exe.config
+E:\c#\newone\newone\bin\Debug\newone.exe
+E:\c#\newone\newone\bin\Debug\newone.pdb
+E:\c#\newone\newone\obj\Debug\newone.cs.csprojResolveAssemblyReference.cache
+E:\c#\newone\newone\obj\Debug\MainWindow.g.cs
+E:\c#\newone\newone\obj\Debug\App.g.cs
+E:\c#\newone\newone\obj\Debug\newone_MarkupCompile.cache
+E:\c#\newone\newone\obj\Debug\newone_MarkupCompile.lref
+E:\c#\newone\newone\obj\Debug\MainWindow.baml
+E:\c#\newone\newone\obj\Debug\newone.g.resources
+E:\c#\newone\newone\obj\Debug\newone.Properties.Resources.resources
+E:\c#\newone\newone\obj\Debug\newone.cs.csproj.GenerateResource.Cache
+E:\c#\newone\newone\obj\Debug\newone.exe
+E:\c#\newone\newone\obj\Debug\newone.pdb

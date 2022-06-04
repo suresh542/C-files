@@ -1,0 +1,14 @@
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.exe
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.deps.json
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.runtimeconfig.json
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.runtimeconfig.dev.json
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.dll
+E:\c#\learning.cs\learning\bin\Debug\netcoreapp3.1\learning.pdb
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.csproj.AssemblyReference.cache
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.AssemblyInfoInputs.cache
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.AssemblyInfo.cs
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.csproj.CoreCompileInputs.cache
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.dll
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.pdb
+E:\c#\learning.cs\learning\obj\Debug\netcoreapp3.1\learning.genruntimeconfig.cache

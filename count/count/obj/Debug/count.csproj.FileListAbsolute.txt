@@ -1,0 +1,6 @@
+E:\c#\count\count\bin\Debug\count.exe.config
+E:\c#\count\count\bin\Debug\count.exe
+E:\c#\count\count\bin\Debug\count.pdb
+E:\c#\count\count\obj\Debug\count.exe
+E:\c#\count\count\obj\Debug\count.pdb
+E:\c#\count\count\obj\Debug\count.csprojResolveAssemblyReference.cache

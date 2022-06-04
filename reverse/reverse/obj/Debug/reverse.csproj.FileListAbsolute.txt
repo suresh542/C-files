@@ -1,0 +1,5 @@
+E:\c#\reverse\reverse\bin\Debug\reverse.exe.config
+E:\c#\reverse\reverse\bin\Debug\reverse.exe
+E:\c#\reverse\reverse\bin\Debug\reverse.pdb
+E:\c#\reverse\reverse\obj\Debug\reverse.exe
+E:\c#\reverse\reverse\obj\Debug\reverse.pdb

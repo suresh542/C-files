@@ -1,0 +1,5 @@
+E:\c#\muti d array\muti d array\bin\Debug\muti d array.exe.config
+E:\c#\muti d array\muti d array\bin\Debug\muti d array.exe
+E:\c#\muti d array\muti d array\bin\Debug\muti d array.pdb
+E:\c#\muti d array\muti d array\obj\Debug\muti d array.exe
+E:\c#\muti d array\muti d array\obj\Debug\muti d array.pdb

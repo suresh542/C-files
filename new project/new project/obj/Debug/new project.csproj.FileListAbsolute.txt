@@ -1,0 +1,5 @@
+E:\c#\new project\new project\bin\Debug\new project.exe.config
+E:\c#\new project\new project\bin\Debug\new project.exe
+E:\c#\new project\new project\bin\Debug\new project.pdb
+E:\c#\new project\new project\obj\Debug\new project.exe
+E:\c#\new project\new project\obj\Debug\new project.pdb

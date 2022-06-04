@@ -1,0 +1,6 @@
+E:\c#\functions\functions\bin\Debug\functions.exe.config
+E:\c#\functions\functions\obj\Debug\functions.csprojResolveAssemblyReference.cache
+E:\c#\functions\functions\bin\Debug\functions.exe
+E:\c#\functions\functions\bin\Debug\functions.pdb
+E:\c#\functions\functions\obj\Debug\functions.exe
+E:\c#\functions\functions\obj\Debug\functions.pdb
