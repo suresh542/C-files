@@ -10,13 +10,13 @@ namespace b_and_c
     {
         public static void Main(string[] args)
         {
-            int i = 5;
-           do
+            string[] cars = { "9","6","2","3","7","4","8","1"};
+            Array.Sort(cars);
+            foreach (string i in cars)
             {
-                Console.WriteLine("Hello World !!!");
-                i++;
-                Console.ReadLine();
-            } while (i < 10)
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
         } 
     }
 }
